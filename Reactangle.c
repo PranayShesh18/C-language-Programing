@@ -1,15 +1,17 @@
 #include<stdio.h>
 
-int main()
+ int main(int argc, char const *argv[])
 {
-    float pi=3.14;
-    float r,area;
+    int l,w;
+    int p;
 
-    printf("Enter the radius of circle");
-    scanf("%f",&r);
+    printf("Enter the length of the reactangle\n");
+    printf("Enter the width of the reactangle\n");
+    scanf("%d",&l);
+    scanf("%d",&w);
 
-    area=pi*r;
+    p=2*(l+w);
 
-    printf("Area of the circle is :%0.2f",area);
+    printf("Perimeter of the rectangle is: %d",p);
     return 0;
 }

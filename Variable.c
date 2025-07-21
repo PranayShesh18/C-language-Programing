@@ -1,9 +1,13 @@
-#include<stdio.h>>
+#include <stdio.h>
 
-int main()
-{
-    int num=10;
-    float num=20.10;
-    char var='P';
-    double dol=100;
+int main() {
+    int a = 10;
+    float b = 5.5;
+    char c = 'X';
+
+    printf("Integer: %d\n", a);
+    printf("Float: %.2f\n", b);
+    printf("Character: %c\n", c);
+
+    return 0;
 }

@@ -5,7 +5,7 @@ A collection of C language programs covering basic exercises and problem-solving
 --------------------------------------------------------------------------------------------
 
 ✅ Contents
-br
+
 1. **Square.c** — Calculates the area of a square based on user input.
 2. **Rectangle.c** — Calculates the area of a rectangle using length and breadth.
 3. **Variable.c** — Demonstrates declaration, initialization, and usage of variables in C.

@@ -33,6 +33,7 @@ A collection of C language programs covering basic exercises and problem-solving
 -------------------------------------------------------------------------------------------------
 
 🛠️ Requirements
+
 A C compiler (e.g., gcc or clang)
 
 A terminal/shell (Linux, macOS, or WSL on Windows)
